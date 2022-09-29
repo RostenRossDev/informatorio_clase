@@ -1,4 +1,4 @@
-package Clase3_Collection;
+package clase_3_Collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
